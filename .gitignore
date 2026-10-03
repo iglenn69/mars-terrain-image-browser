@@ -1,0 +1,12 @@
+.python/
+.venv/
+__pycache__/
+downloads/
+*.part
+python-installer.exe
+atlas.js
+*-sols.html
+ops-693.html
+explorer.html
+query.json
+resolved.json
